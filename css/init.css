@@ -1,0 +1,221 @@
+    /* Basic linear gradient examples */
+    /* background-image: linear-gradient(#ff8a00, #e52e71);
+    background-image: linear-gradient(to right, violet, darkred, purple);
+    background-image: linear-gradient(40deg, rgb(255 0 0) 60%, orange); */
+
+    /* Basic radial gradient examples*/
+    /* background-image: radial-gradient(#ff8a00, #e52e71);
+    background-image: radial-gradient(circle at top right, #ff8a00, red, #e52e71);  */
+
+    /* Basic conic gradient examples */
+    /* background-image: conic-gradient(#ff8a00, #e52e71);
+    background-image: conic-gradient(red 50deg, yellow 100deg, lime 200deg, aqua, blue, magenta, red); */
+    html{
+        line-height: 0;
+    }
+    body {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        /* background: #1f2224; */
+        /* color: #bdbdbd !important; */
+    }
+
+    /* icon */
+    i>img.img-icon{
+        margin-top: 12px;
+        width: 100%;
+        border-radius: 50%;
+        /* box-shadow: 0px 0px 0px 0px #0f0f10d7,
+                0px 0px 0px 0px #282828cc,
+                inset 6px 6px 16px 0px #0f0f10d7,
+                inset -6px -6px 16px 0px #282828cc; */
+        border: 1px solid #ff7a22;
+        background: black;
+    }
+
+    .top-icon{
+        padding:0 27px 0 27px;
+        box-shadow: 0px 0px 0px 0px #0f0f10d7,
+                0px 0px 0px 0px #282828cc,
+                inset 6px 6px 16px 0px #0f0f10d7,
+                inset -6px -6px 16px 0px #282828cc;
+        /* border: 1px solid rgb(78, 78, 78); */
+        border-radius: 50%;
+    }
+
+    .card{
+        border-radius: 10px;
+        padding: 0;
+    }
+    .card-action{
+        /* background-color: #1f2224 !important;
+        box-shadow: 0px 0px 0px 0px #0f0f10d7,
+                0px 0px 0px 0px #282828cc,
+                inset 6px 6px 16px 0px #0f0f10d7,
+                inset -6px -6px 16px 0px #282828cc; */
+        /* border: 1px solid rgb(78, 78, 78); */
+        /* border: 1px solid #282828cc; */
+        border-radius: 10px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+        color: rgb(0, 0, 0);
+        text-transform: uppercase;
+        /* text-shadow: 0px 0px 1px gold; */
+        font-size: 18px;
+        /* transition: .1s; */
+        margin: 0;
+    }
+    .card-inner{
+        padding: 15px;
+        margin: 0;
+    }
+    .card-hr{
+        /* background-color: #282828cc !important; */
+        border-bottom: 1px solid #111111cc;
+        border-radius: 10px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+        text-transform: uppercase;
+        /* text-shadow: 0px 0px 1px gold; */
+        font-size: 18px;
+        padding: 10px;
+        /* transition: .1s; */
+    }
+    .thumbnail-img{
+        width: 100%;
+        padding: 0%;
+        margin: 0;
+        border-radius: 10px;
+        /* border-top-right-radius: 0;
+        border-top-left-radius: 0; */
+        border: 1px solid #282828cc;
+    }
+
+    .card-action+.thumbnail-img,.card-hr+.thumbnail-img{
+        width: 100%;
+        padding: 0%;
+        margin: 0;
+        border-radius: 10px;
+        border-top-right-radius: 0;
+        border-top-left-radius: 0;
+        border: 1px solid #282828cc;
+    }
+    .border-0{
+        border: 0;
+        border-radius: 0;
+    }
+
+    .rounded-30px{
+        border-radius: 30px !important;
+    }
+
+
+    /* .sidenav .collapsible .collapsible-body li>a:hover,.sidenav .collapsible .collapsible-body li>a.active{
+
+        box-shadow: 0px 0px 0px 0px #0f0f10d7,
+                    0px 0px 0px 0px #282828cc,
+                    inset 6px 6px 16px 0px #0f0f10d7,
+                    inset -6px -6px 16px 0px #282828cc;
+        border-left: 3px solid #fff; */
+        /* transition: .2s; */
+         /* background-color:#d42932 */
+        
+    /* } */
+
+
+    .music-card{
+        max-width: 800px;
+        margin: auto;
+    }
+
+    .activebtn{
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        color: #fff !important;
+        border-radius: 3px;
+        background-color: rebeccapurple;
+        border:2px solid rebeccapurple;
+        /* box-shadow: 6px 6px 16px 0px #131318d7,
+                -6px -6px 16px 0px #282828cc,
+                inset 0px 0px 0px 0px #262635d7,
+                inset 0px 0px 0px 0px #302525cc; */
+    }
+
+
+    /*  */
+    .dark-bg{
+        background-color: #1f2224;
+        color: #e2e0d5;
+        box-shadow: 6px 6px 16px 0px #0f0f10d7,
+                    -6px -6px 16px 0px #282828cc,
+                    inset 0px 0px 0px 0px #0f0f10d7,
+                    inset 0px 0px 0px 0px #282828cc;
+        /* border-radius: 5px; */
+        /* padding: .4rem 1rem; */
+        border: 1px solid #282828cc;
+        /* transition: all .1s; */
+    }
+
+    /* .sidenav.sidenav-fixed{
+        background-color: #1f2224;
+        color: #e2e0d5;
+        box-shadow: 6px 6px 16px 0px rgba(15,15,16,.842),-6px -6px 16px 0px #282828cc,inset 0px 0px 0px 0px #0f0f10d7,inset 0px 0px 0px 0px #282828cc;
+        border-top-left-radius: 0;
+        border-bottom-right-radius: 5px;
+        border:none;
+        border-right: 1px solid #282828cc;
+        border-bottom: 1px solid #282828cc; */
+        /* transition: all .1s; */
+    /* } */
+
+    .none-border{
+        border: none !important;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+
+    .myslide{
+        transform: translateX(0px) translateY(0px) translateX(0px) translateX(0px) translateZ(0px) !important;
+    }
+    .mw-400{
+        height: 100%;
+        max-height: 300px;
+        max-width: 434px !important;
+    }
+
+
+    .border-none{
+        border: none;
+        border-radius: 0;
+    }
+
+    /* .shadow{
+        background-color: #5a5a5a !important;
+        box-shadow: 0px 0px 0px 0px #0f0f10d7,
+                0px 0px 0px 0px #838383cc,
+                inset 6px 6px 16px 0px #424242d7,
+                inset -6px -6px 16px 0px #979797cc;
+    } */
+
+.mybg,.card-action,.collapsible-body{
+    background-image: url("/asset/svg/Path\ 1.svg");
+    background-position: inherit;
+    background-size:cover;
+}
+.navbar{
+    background-image: url("/asset/svg/header.svg");
+    background-position: top;
+    background-size:cover;
+}
+.sidenav{
+    background-image: url("/asset/svg/buttom.svg");
+    background-position: top;
+    background-size:cover;
+}
+
+
+ul li{
+    line-height: 35px;
+}

@@ -1,0 +1,274 @@
+/* Khmer google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Angkor&family=Battambang:wght@400;700&family=Bayon&family=Bokor&family=Chenla&family=Content:wght@400;700&family=Dangrek&family=Fasthand&family=Freehand&family=Hanuman:wght@400;700&family=Kantumruy:wght@300;400;700&family=Kdam+Thmor&family=Khmer&family=Koulen&family=Metal&family=Moul&family=Moulpali&family=Nokora:wght@400;700&family=Odor+Mean+Chey&family=Preahvihear&family=Siemreap&family=Suwannaphum&family=Taprom&display=swap');
+
+/* font-family */
+.fontAngkor{font-family:'Angkor',cursive!important;}
+.fontBattambang{font-family:'Battambang',cursive!important;}
+.fontBayon{font-family:'Bayon',cursive!important;}
+.fontBokor{font-family:'Bokor',cursive!important;}
+.fontChenla{font-family:'Chenla',cursive!important;}
+.fontContent{font-family:'Content',cursive!important;}
+.fontDangrek{font-family:'Dangrek',cursive!important;}
+.fontFasthand{font-family:'Fasthand',serif!important;}
+.fontFreehand{font-family:'Freehand',cursive!important;}
+.fontHanuman{font-family:'Hanuman',serif!important;}
+.fontKantumruy{font-family:'Kantumruy',sans-serif!important;}
+.fontKdamThmor{font-family:'Kdam Thmor',cursive!important;}
+.fontKhmer{font-family:'Khmer',cursive!important;}
+.fontKoulen{font-family:'Koulen',cursive!important;}
+.fontMetal{font-family:'Metal',cursive!important;}
+.fontMoul{font-family:'Moul',cursive!important;}
+.fontMoulpali{font-family:'Moulpali',cursive!important;}
+.fontNokora{font-family:'Nokora',serif!important;}
+.fontOdorMeanChey{font-family:'Odor Mean Chey',cursive!important;}
+.fontPreahvihear{font-family:'Preahvihear',cursive!important;}
+.fontSiemreap{font-family:'Siemreap',cursive!important;}
+.fontSuwannaphum{font-family:'Suwannaphum',cursive!important;}
+.fontTaprom{font-family:'Taprom',cursive!important;}
+
+
+/* font-weight */
+.font100{font-weight: 100;}
+.font200{font-weight: 200;}
+.font300{font-weight: 300;}
+.font400{font-weight: 400;}
+.font500{font-weight: 500;}
+.font600{font-weight: 600;}
+.font700{font-weight: 700;}
+.font800{font-weight: 800;}
+.font900{font-weight: 900;}
+.fontBold{font-weight: bold;}
+.fontBolder{font-weight: bolder;}
+.fontNormal{font-weight: normal;}
+.fontLighter{font-weight: lighter;}
+
+
+/* fot-size Px */
+.f1px{font-size: 1px!important;}
+.f2px{font-size: 2px!important;}
+.f3px{font-size: 3px!important;}
+.f4px{font-size: 4px!important;}
+.f5px{font-size: 5px!important;}
+.f6px{font-size: 6px!important;}
+.f7px{font-size: 7px!important;}
+.f8px{font-size: 8px!important;}
+.f9px{font-size: 9px!important;}
+.f10px{font-size: 10px!important;}
+.f11px{font-size: 11px!important;}
+.f12px{font-size: 12px!important;}
+.f13px{font-size: 13px!important;}
+.f14px{font-size: 14px!important;}
+.f15px{font-size: 15px!important;}
+.f16px{font-size: 16px!important;}
+.f17px{font-size: 17px!important;}
+.f18px{font-size: 18px!important;}
+.f19px{font-size: 19px!important;}
+.f21px{font-size: 21px!important;}
+.f22px{font-size: 22px!important;}
+.f23px{font-size: 23px!important;}
+.f24px{font-size: 24px!important;}
+.f25px{font-size: 25px!important;}
+.f26px{font-size: 26px!important;}
+.f27px{font-size: 27px!important;}
+.f28px{font-size: 28px!important;}
+.f29px{font-size: 29px!important;}
+.f30px{font-size: 30px!important;}
+
+
+/* fon-size Rem */
+.f1rem{font-size: 1rem!important;}
+.f2rem{font-size: 2rem!important;}
+.f3rem{font-size: 3rem!important;}
+.f4rem{font-size: 4rem!important;}
+.f5rem{font-size: 5rem!important;}
+.f6rem{font-size: 6rem!important;}
+.f7rem{font-size: 7rem!important;}
+.f8rem{font-size: 8rem!important;}
+.f9rem{font-size: 9rem!important;}
+.f10rem{font-size: 10rem!important;}
+.f11rem{font-size: 11rem!important;}
+.f12rem{font-size: 12rem!important;}
+.f13rem{font-size: 13rem!important;}
+.f14rem{font-size: 14rem!important;}
+.f15rem{font-size: 15rem!important;}
+.f16rem{font-size: 16rem!important;}
+.f17rem{font-size: 17rem!important;}
+.f18rem{font-size: 18rem!important;}
+.f19rem{font-size: 19rem!important;}
+.f21rem{font-size: 21rem!important;}
+.f22rem{font-size: 22rem!important;}
+.f23rem{font-size: 23rem!important;}
+.f24rem{font-size: 24rem!important;}
+.f25rem{font-size: 25rem!important;}
+.f26rem{font-size: 26rem!important;}
+.f27rem{font-size: 27rem!important;}
+.f28rem{font-size: 28rem!important;}
+.f29rem{font-size: 29rem!important;}
+.f30rem{font-size: 30rem!important;}
+
+
+
+/* fot-size em */
+.f1em{font-size: 1em!important;}
+.f2em{font-size: 2em!important;}
+.f3em{font-size: 3em!important;}
+.f4em{font-size: 4em!important;}
+.f5em{font-size: 5em!important;}
+.f6em{font-size: 6em!important;}
+.f7em{font-size: 7em!important;}
+.f8em{font-size: 8em!important;}
+.f9em{font-size: 9em!important;}
+.f10em{font-size: 10em!important;}
+.f11em{font-size: 11em!important;}
+.f12em{font-size: 12em!important;}
+.f13em{font-size: 13em!important;}
+.f14em{font-size: 14em!important;}
+.f15em{font-size: 15em!important;}
+.f16em{font-size: 16em!important;}
+.f17em{font-size: 17em!important;}
+.f18em{font-size: 18em!important;}
+.f19em{font-size: 19em!important;}
+.f21em{font-size: 21em!important;}
+.f22em{font-size: 22em!important;}
+.f23em{font-size: 23em!important;}
+.f24em{font-size: 24em!important;}
+.f25em{font-size: 25em!important;}
+.f26em{font-size: 26em!important;}
+.f27em{font-size: 27em!important;}
+.f28em{font-size: 28em!important;}
+.f29em{font-size: 29em!important;}
+.f30em{font-size: 30em!important;}
+
+
+/* fot-size pt */
+.f1pt{font-size: 1pt!important;}
+.f2pt{font-size: 2pt!important;}
+.f3pt{font-size: 3pt!important;}
+.f4pt{font-size: 4pt!important;}
+.f5pt{font-size: 5pt!important;}
+.f6pt{font-size: 6pt!important;}
+.f7pt{font-size: 7pt!important;}
+.f8pt{font-size: 8pt!important;}
+.f9pt{font-size: 9pt!important;}
+.f10pt{font-size: 10pt!important;}
+.f11pt{font-size: 11pt!important;}
+.f12pt{font-size: 12pt!important;}
+.f13pt{font-size: 13pt!important;}
+.f14pt{font-size: 14pt!important;}
+.f15pt{font-size: 15pt!important;}
+.f16pt{font-size: 16pt!important;}
+.f17pt{font-size: 17pt!important;}
+.f18pt{font-size: 18pt!important;}
+.f19pt{font-size: 19pt!important;}
+.f21pt{font-size: 21pt!important;}
+.f22pt{font-size: 22pt!important;}
+.f23pt{font-size: 23pt!important;}
+.f24pt{font-size: 24pt!important;}
+.f25pt{font-size: 25pt!important;}
+.f26pt{font-size: 26pt!important;}
+.f27pt{font-size: 27pt!important;}
+.f28pt{font-size: 28pt!important;}
+.f29pt{font-size: 29pt!important;}
+.f30pt{font-size: 30pt!important;}
+
+
+/* fot-size vh */
+.f1vh{font-size: 1vh!important;}
+.f2vh{font-size: 2vh!important;}
+.f3vh{font-size: 3vh!important;}
+.f4vh{font-size: 4vh!important;}
+.f5vh{font-size: 5vh!important;}
+.f6vh{font-size: 6vh!important;}
+.f7vh{font-size: 7vh!important;}
+.f8vh{font-size: 8vh!important;}
+.f9vh{font-size: 9vh!important;}
+.f10vh{font-size: 10vh!important;}
+.f11vh{font-size: 11vh!important;}
+.f12vh{font-size: 12vh!important;}
+.f13vh{font-size: 13vh!important;}
+.f14vh{font-size: 14vh!important;}
+.f15vh{font-size: 15vh!important;}
+.f16vh{font-size: 16vh!important;}
+.f17vh{font-size: 17vh!important;}
+.f18vh{font-size: 18vh!important;}
+.f19vh{font-size: 19vh!important;}
+.f21vh{font-size: 21vh!important;}
+.f22vh{font-size: 22vh!important;}
+.f23vh{font-size: 23vh!important;}
+.f24vh{font-size: 24vh!important;}
+.f25vh{font-size: 25vh!important;}
+.f26vh{font-size: 26vh!important;}
+.f27vh{font-size: 27vh!important;}
+.f28vh{font-size: 28vh!important;}
+.f29vh{font-size: 29vh!important;}
+.f30vh{font-size: 30vh!important;}
+
+
+/* ont-size % */
+.f1{font-size: 1%!important;}
+.f2{font-size: 2%!important;}
+.f3{font-size: 3%!important;}
+.f4{font-size: 4%!important;}
+.f5{font-size: 5%!important;}
+.f6{font-size: 6%!important;}
+.f7{font-size: 7%!important;}
+.f8{font-size: 8%!important;}
+.f9{font-size: 9%!important;}
+.f10{font-size: 10%!important;}
+.f11{font-size: 11%!important;}
+.f12{font-size: 12%!important;}
+.f13{font-size: 13%!important;}
+.f14{font-size: 14%!important;}
+.f15{font-size: 15%!important;}
+.f16{font-size: 16%!important;}
+.f17{font-size: 17%!important;}
+.f18{font-size: 18%!important;}
+.f19{font-size: 19%!important;}
+.f21{font-size: 21%!important;}
+.f22{font-size: 22%!important;}
+.f23{font-size: 23%!important;}
+.f24{font-size: 24%!important;}
+.f25{font-size: 25%!important;}
+.f26{font-size: 26%!important;}
+.f27{font-size: 27%!important;}
+.f28{font-size: 28%!important;}
+.f29{font-size: 29%!important;}
+.f30{font-size: 30%!important;}
+
+
+
+/* fot-size in */
+.f1in{font-size: 1in!important;}
+.f2in{font-size: 2in!important;}
+.f3in{font-size: 3in!important;}
+.f4in{font-size: 4in!important;}
+.f5in{font-size: 5in!important;}
+.f6in{font-size: 6in!important;}
+.f7in{font-size: 7in!important;}
+.f8in{font-size: 8in!important;}
+.f9in{font-size: 9in!important;}
+.f10in{font-size: 10in!important;}
+.f11in{font-size: 11in!important;}
+.f12in{font-size: 12in!important;}
+.f13in{font-size: 13in!important;}
+.f14in{font-size: 14in!important;}
+.f15in{font-size: 15in!important;}
+.f16in{font-size: 16in!important;}
+.f17in{font-size: 17in!important;}
+.f18in{font-size: 18in!important;}
+.f19in{font-size: 19in!important;}
+.f21in{font-size: 21in!important;}
+.f22in{font-size: 22in!important;}
+.f23in{font-size: 23in!important;}
+.f24in{font-size: 24in!important;}
+.f25in{font-size: 25in!important;}
+.f26in{font-size: 26in!important;}
+.f27in{font-size: 27in!important;}
+.f28in{font-size: 28in!important;}
+.f29in{font-size: 29in!important;}
+.f30in{font-size: 30in!important;}
+
+
+
+
+/* by AHPHNEK3 */
